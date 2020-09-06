@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export CLASSPATH_PREFIX=$(JARS=("target/lib"/*.jar); IFS=:; echo "${JARS[*]}"):target/classes:target/test-classes
+
+sh target/appassembler/bin/rank $*

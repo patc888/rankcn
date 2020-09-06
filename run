@@ -1,0 +1,22 @@
+#!/bin/bash
+bin/rank \
+  http://www.17life.com/ \
+  http://www.17life.com/477 \
+  http://www.17life.com/476 \
+  http://www.17life.com/475 \
+  "http://www.17life.com/ppon/TodayDeal.aspx?cpa=17_todaydeals" \
+  "http://www.17life.com/ppon/LastDayDeal.aspx?cpa=17_lastdaydeals" \
+  "http://www.17life.com/ppon/default.aspx?filter=137&FastDeal=1" \
+  "http://www.17life.com/piinlife/default.aspx" \
+  "https://tw.bid.yahoo.com/" \
+  "https://tw.bid.yahoo.com/theme/female/queen.html?hpp=hp_specialsection_beau" \
+  "https://tw.bid.yahoo.com/theme/man/main.html" \
+  "https://tw.bid.yahoo.com/theme/3c/mobile.html" \
+  "https://tw.bid.yahoo.com/theme/life/home.html" \
+  "https://tw.usedcar.yahoo.com/" \
+  "https://tw.promo.yahoo.com/2015auction/topranking07/#tab_1" \
+  "https://tw.campaign.bid.yahoo.com/activity?p=auc-1-0-160218-usedgoodstuffs" \
+  "https://tw.search.bid.yahoo.com/search/auction/product?p=%E8%A1%8C%E6%9D%8E%E7%AE%B1&qt=product&cid=0&clv=0&property=auction&sub_property=auction&srch=product&show=pic&show_flag=1&view=pic&nst=1&act=srp&rescheck=1&fr=aucpromo&aoffset=0&poffset=0&pg=1&pptf=3&hpp=hp_topkeyword_07_01&fr=aucpromo" \
+  "https://tw.search.bid.yahoo.com/search/auction/product?p=%E9%98%B2%E8%9A%8A&qt=product&kw=%E9%98%B2%E8%9A%8A&cid=0&clv=0&acu=0&property=auction&sub_property=auction&srch=product&aoffset=0&poffset=0&pg=1&pptf=3&act=srp&rescheck=1&show=pic&show_flag=1&view=pic&nst=1&hpp=hp_topkeyword_07_02&fr=aucpromo" \
+  "https://tw.search.bid.yahoo.com/search/product?p=%E5%B7%B4%E5%85%8B%E7%90%83&property=auction&sub_property=auction&srch=product&show=pic&show_flag=1&view=pic&nst=1&act=srp&rescheck=1&fr=aucpromo&aoffset=0&poffset=0&pg=1&pptf=3&hpp=hp_topkeyword_07_03&fr=aucpromo" \
+  "https://tw.search.bid.yahoo.com/search/auction/product?p=%E6%BF%BE%E6%B0%B4%E5%99%A8&qt=product&cid=0&clv=0&property=auction&sub_property=auction&srch=product&show=pic&show_flag=1&view=pic&nst=1&act=srp&rescheck=1&aoffset=0&poffset=0&pg=1&pptf=3&hpp=hp_topkeyword_07_05&fr=aucpromo"
